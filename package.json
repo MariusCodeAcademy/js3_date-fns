@@ -1,5 +1,5 @@
 {
-  "name": "date-fns",
+  "name": "our-date-fns",
   "version": "1.0.0",
   "description": "Test out some date fns",
   "main": "app.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MariusCodeAcademy/js3_date-fns/issues"
   },
-  "homepage": "https://github.com/MariusCodeAcademy/js3_date-fns#readme"
+  "homepage": "https://github.com/MariusCodeAcademy/js3_date-fns#readme",
+  "dependencies": {
+    "date-fns": "^2.21.3"
+  }
 }
